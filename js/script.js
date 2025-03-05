@@ -19,8 +19,8 @@ function toNewNotification (){
   function toProgress (){
     window.location.href = "../pages/progress.html";
   }
-  function toNotifications (){
-    window.location.href = "../pages/notifications.html";
+  function toAllNotifications (){
+    window.location.href = "../pages/all-notifications.html";
   }
   function toToday (){
     window.location.href = "../pages/today.html";
